@@ -1,0 +1,24 @@
+{
+  "name": "belgiq",
+  "version": "1.0.0",
+  "description": "Quiz belge pour le Clever Cloud Devoxx Challenge",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.23.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
