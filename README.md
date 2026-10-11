@@ -2,7 +2,7 @@
 
 A small multilingual quiz about Belgium, created as an AI-assisted side project during **Devoxx Belgium 2026** and deployed on **Clever Cloud**.
 
-**[Try the live quiz](https://app-ffd5ff7b-b8c7-4a47-8c51-6a14f097f314.cleverapps.io/)**
+**[Try the live quiz](https://belgiq.cleverapps.io/)**
 
 ![BelgiQ home screen](screenshots/home.jpg)
 
